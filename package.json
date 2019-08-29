@@ -1,0 +1,33 @@
+{
+  "name": "zenryaku-profile",
+  "version": "1.0.0",
+  "description": "My Profile",
+  "main": "index.js",
+  "scripts": {
+    "proof": "textlint *.md"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.md": [
+      "textlint *.md",
+      "git add"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github/uruha/zenryaku-profile.git"
+  },
+  "keywords": [],
+  "author": "Kotaro Chiba",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^3.0.4",
+    "lint-staged": "^9.2.5",
+    "textlint": "^11.3.1",
+    "textlint-rule-preset-ja-technical-writing": "^3.1.3"
+  }
+}
