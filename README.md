@@ -90,7 +90,7 @@
 #### PHP
 - Slim
 - Wordpress
-  - WordPress はオリジナルテンプレート作成まで
+  - WordPress はオリジナルテンプレート作成まで可能
 
 #### Python
 - Flask
@@ -104,7 +104,7 @@
 - Apache
 - (Nginx)
 
-DBサーバ（Windowsサーバ）の筐体を作成経験のみあり。
+DBサーバ（Windowsサーバ）の筐体を作成経験あり。
 
 ### OS
 - MacOS
