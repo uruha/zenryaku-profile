@@ -7,6 +7,7 @@
 | Twitter | [@ur_uha](https://twitter.com/ur_uha) |
 | Facebook | [Kotaro Chiba](https://ja-ks.facebook.com/kotaro.chiba.37) |
 | Qiita | [uruha - Qiita](https://qiita.com/uruha) |
+| Media (Blog) | [pensant.me](https://pensant.me) |
 | SoundCloud | [ur_uha](https://soundcloud.com/ur_uha) |
 
 ```
@@ -18,7 +19,7 @@
 ## 職務経歴
 ### 2018.05 - 現在: 合同会社DMM.com
 WebエンジニアとしてプラットフォームのPUSH通知基盤、DMMのトップページの開発・保守運用に従事。  
-その後CTO室エバンジェリストチームに異動し、会社全体のフロントエンドにおける評価制度・採用・事業支援などを行っています。
+その後CTO室エバンジェリストチームに異動し、会社全体のフロントエンドにおける評価制度・採用・事業支援・その他雑用などを行っています。
 
 ### 2015.10 - インターリンク株式会社
 フロントエンドエンジニアとしてオウンドメディアのサービスリプレイス・その後の運用に従事。  
@@ -34,6 +35,8 @@ WebエンジニアとしてプラットフォームのPUSH通知基盤、DMMの�
 ## 社外活動
 ### 登壇
 #### 2020年
+- [Kanazawa.js meetup #3](https://speakerdeck.com/uruha/javascript-woshu-kishi-meruqian-nizhi-tuteokitai-javascript-falsekoto-number-02)
+- [Kanazawa.js meetup #2](https://speakerdeck.com/uruha/javascript-woshu-kishi-meruqian-nizhi-tuteokitai-javascript-falsekoto)
 - [Kanazawa.js meetup #1](https://speakerdeck.com/uruha/kanazawa-dot-js-meetup-number-1)
 
 #### 2019年
@@ -51,17 +54,23 @@ WebエンジニアとしてプラットフォームのPUSH通知基盤、DMMの�
 
 ## 仕事に於けるスキル
 ### 要約
-- Webに於けるUI設計からアプリケーション実装まで
-  - フロントエンド周りの設計が得意
-  - バックエンドは必要ならば喜んで
-  - DBの設計は業務上行ったことがまだ無いです
+- エンジニアリング
+  - Webに於けるUI設計からアプリケーション実装まで
+    - フロントエンド周りの設計が得意
+      - インフラ・ネットワーク周りの設計もできます
+    - バックエンドは必要ならば喜んで
+    - DBの設計は業務上行ったことがまだ無いです
 - デザイン
   - 名刺
   - ステッカー
   - ポスター
+- その他
+  - メンタリング
+  - コーチング
+  - 採用（面接時のアトラクトなど）
 
 基本目的達成のためなら普段触らない技術も積極的に触っていきます。  
-DMM では [tech vision](https://dmm-corp.com/technology/) のインナーブランディングのデザインもやっています。
+DMM では [tech vision](https://dmm-corp.com/technology/) のインナーブランディングのデザイン、エンジニアの 1 on 1（メンタリング/コーチング）もやっています。
 
 ### 言語
 - HTML（html4.1, html5）
@@ -105,7 +114,10 @@ DMM では [tech vision](https://dmm-corp.com/technology/) のインナーブラ
 
 ##### UI/Component
 - React
+  - next.js
+  - gatsby.js
 - Vue
+  - nuxt.js
 - Angular
 
 ##### Task Runner/Bundler
