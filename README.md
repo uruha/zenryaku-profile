@@ -35,6 +35,8 @@ WebエンジニアとしてプラットフォームのPUSH通知基盤、DMMの�
 ## 社外活動
 ### 登壇
 #### 2020年
+- [Think ! FrontEnd by DMM #01 (主催)](https://speakerdeck.com/uruha/think-frontend-number-01)
+- [Kanazawa.js meetup #4](https://speakerdeck.com/uruha/javascript-woshu-kishi-meruqian-nizhi-tuteokitai-javascript-falsekoto-number-03)
 - [Kanazawa.js meetup #3](https://speakerdeck.com/uruha/javascript-woshu-kishi-meruqian-nizhi-tuteokitai-javascript-falsekoto-number-02)
 - [Kanazawa.js meetup #2](https://speakerdeck.com/uruha/javascript-woshu-kishi-meruqian-nizhi-tuteokitai-javascript-falsekoto)
 - [Kanazawa.js meetup #1](https://speakerdeck.com/uruha/kanazawa-dot-js-meetup-number-1)
@@ -73,6 +75,10 @@ WebエンジニアとしてプラットフォームのPUSH通知基盤、DMMの�
 DMM では [tech vision](https://dmm-corp.com/technology/) のインナーブランディングのデザイン、エンジニアの 1 on 1（メンタリング/コーチング）もやっています。
 
 ### 言語
+<details>
+<summary>詳細はこちら</summary>
+<div>
+
 - HTML（html4.1, html5）
 - CSS (2.1, 3)
 - AltCSS
@@ -95,7 +101,14 @@ DMM では [tech vision](https://dmm-corp.com/technology/) のインナーブラ
 - Python
 - Regular expression
 
+</div>
+</details>
+
 ### フレームワーク
+<details>
+<summary>詳細はこちら</summary>
+<div>
+
 ※ 仕事や個人開発で触ったことのある主要なもののみ列挙しています。
 
 #### JavaScript
@@ -149,6 +162,9 @@ DMM では [tech vision](https://dmm-corp.com/technology/) のインナーブラ
 - .NET
   - Framework
   - Core
+
+</div>
+</details>
 
 ### Webサーバ
 - Apache
