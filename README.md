@@ -19,7 +19,7 @@
 ## 職務経歴
 ### 2018.05 - 現在: 合同会社DMM.com
 WebエンジニアとしてプラットフォームのPUSH通知基盤、DMMのトップページの開発・保守運用に従事。  
-その後CTO室エバンジェリストチームに異動し、会社全体のフロントエンドにおける評価制度・採用・事業支援・その他雑用などを行っています。
+その後CTO室エバンジェリストチームに異動し、会社全体のフロントエンドにおける評価制度・採用・事業/技術支援・エンジニアコミュニティ立ち上げなどを行っています。
 
 ### 2015.10 - インターリンク株式会社
 フロントエンドエンジニアとしてオウンドメディアのサービスリプレイス・その後の運用に従事。  
@@ -35,6 +35,8 @@ WebエンジニアとしてプラットフォームのPUSH通知基盤、DMMの�
 ## 社外活動
 ### 登壇
 #### 2020年
+- [【DMM × CAMPHOR-】Webフロントエンド開発トークセッション【学生限定】](https://camphor.connpass.com/event/192222/)
+- [Kanazawa.js meetup #5](https://speakerdeck.com/uruha/javascript-woshu-kishi-meruqian-nizhi-tuteokitai-javascript-falsekoto-number-05)
 - [Think ! FrontEnd by DMM #01 (主催)](https://speakerdeck.com/uruha/think-frontend-number-01)
 - [Kanazawa.js meetup #4](https://speakerdeck.com/uruha/javascript-woshu-kishi-meruqian-nizhi-tuteokitai-javascript-falsekoto-number-03)
 - [Kanazawa.js meetup #3](https://speakerdeck.com/uruha/javascript-woshu-kishi-meruqian-nizhi-tuteokitai-javascript-falsekoto-number-02)
@@ -163,6 +165,8 @@ DMM では [tech vision](https://dmm-corp.com/technology/) のインナーブラ
   - Framework
   - Core
 
+CSS などの UIライブラリ も経験はありますが、フルスクラッチである程度のUIは構築できるのであくまで工数削減などの手段でしか導入をしていません。
+
 </div>
 </details>
 
@@ -170,7 +174,7 @@ DMM では [tech vision](https://dmm-corp.com/technology/) のインナーブラ
 - Apache
 - (Nginx)
 
-DBサーバ（Windowsサーバ）の筐体を作成経験あり。
+別途 DBサーバ（Windowsサーバ）の筐体を作成経験あり。
 
 ### OS
 - MacOS
@@ -182,9 +186,12 @@ DBサーバ（Windowsサーバ）の筐体を作成経験あり。
 - Kibana
 - Fluentd
 - Elasticsearch
+- NewRelic
 
 CentOS, Windows サーバに fluentd を設置して kibana, elasticsearch アクセスログ等のロギング基盤構築・運用経験あり。  
-Elasticsearch のメモリのチューニング経験あり。
+同様に NewRelic も CentOS, Windows サーバに導入経験あり。  
+Elasticsearch のメモリのチューニング経験あり。  
+監視対象の閾値より Slack LINE などにアラートを送る障害フローの簡易設計経験あり。
 
 ### CDN
 - Akamai Edge
