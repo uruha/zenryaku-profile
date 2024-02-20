@@ -41,6 +41,7 @@
     - [Desigining in the Browser](https://design-spice.com/2012/06/29/designing-in-the-browser/) による工数の圧縮化
     - 統一グローバルナビゲーション・その他施策による UU/CVR の増加
     - GTM 文脈からのミドルリード獲得への貢献
+    - 取材: [フォントは、ブランドのメッセージを届ける「声」。ブラウザでの再現性にこだわる、STORESのWebフォント活用](https://fontplus.jp/blog/2024-02-15-stores)
 
 ### 2021.07 - 株式会社MICIN
 - 新規事業のプロダクト立ち上げに TechLead 及び EngineerManegaer として仕様策定・技術選定から人員計画・採用まで幅広く対応
