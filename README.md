@@ -7,7 +7,6 @@
 | Twitter | [@ur_uha](https://twitter.com/ur_uha) |
 | Facebook | [Kotaro Chiba](https://ja-ks.facebook.com/kotaro.chiba.37) |
 | Qiita | [uruha - Qiita](https://qiita.com/uruha) |
-| Media (Blog) | [pensant.me](https://pensant.me) |
 | SoundCloud | [ur_uha](https://soundcloud.com/ur_uha) |
 | Zenn | [uruha](https://zenn.dev/uruha) |
 | Speaker Deck | [uruha](https://speakerdeck.com/uruha) |
