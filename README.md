@@ -4,7 +4,7 @@
 
 | 名前 | 千葉 弘太郎 (Chiba Kotaro) |
 | --- | --- |
-| Twitter | [@ur_uha](https://twitter.com/ur_uha) |
+| X（旧Twitter） | [@ur_uha](https://x.com/ur_uha) |
 | Facebook | [Kotaro Chiba](https://ja-ks.facebook.com/kotaro.chiba.37) |
 | Qiita | [uruha - Qiita](https://qiita.com/uruha) |
 | SoundCloud | [ur_uha](https://soundcloud.com/ur_uha) |
@@ -12,16 +12,20 @@
 | Speaker Deck | [uruha](https://speakerdeck.com/uruha) |
 
 ```
-- 連絡は Twitter または Facebook がレス早いです
+- 連絡は X（旧Twitter） または Facebook でお願いします
 - SNSなどであまり技術的なつぶやきはしてません(たまにする)
-- なんで「うるは」なのっては秘密です
-- この業界に来た理由はこちらから 👉 https://zenn.dev/uruha/articles/a34e500370ec5a96a5f3
+- この業界に来た理由はこちらから（2020年度版） 👉 https://zenn.dev/uruha/articles/a34e500370ec5a96a5f3
 ```
 
 ## 職務経歴
 ### 2024.02 - 現在: 合同会社DMM.com
+- FY26 ~
+  - VPoE室
+    - 生成AIの前提とした組織に於ける
+      - 採用戦略参画・施策遂行
+      - 数学・統計学的手法を用いた社外・社内データの分析及び解析
 - FY25 ~
-  - VPoE室 副室長（2025.06 - ）
+  - VPoE室 副室長（2025.06 - 2026.7）
     - FY24 内容に加え VPoE室 運営
       - 技術広報エンハンス
       - 組織中長期計画立案・遂行
